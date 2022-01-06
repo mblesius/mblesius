@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mblesius
 - 👀 I’m interested in GIS and Spatial Software
-- 🌱 I’m currently learning everything related to GIS and Python
+- 🌱 I’m currently learning everything related to GIS, Spatial databases and Python
 <!---
 💞️ I’m looking to collaborate on ...
 --->
